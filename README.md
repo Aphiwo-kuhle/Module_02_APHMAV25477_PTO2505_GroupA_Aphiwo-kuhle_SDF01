@@ -1,4 +1,4 @@
-# Welcame to my awesome Repo 🦋
+# Welcame To My Awesome Repo 🦋
 
 # [SDF01] Challenge: Aphiwo Repository  
 
