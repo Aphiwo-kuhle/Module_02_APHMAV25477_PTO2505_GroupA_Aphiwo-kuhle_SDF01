@@ -63,9 +63,9 @@ The following are key milestone projects I have completed, with updates to be ad
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub
-- 🎨 Learn HTML, CSS, and JavaScript
-- 💡 Build real-world projects and collaborate with others
+- 🚀 Get comfortable using Git and GitHub.
+- 🎨 Learn HTML, CSS, and JavaScript.
+- 💡 Build real-world projects and collaborate with others.
 
 ---
 
