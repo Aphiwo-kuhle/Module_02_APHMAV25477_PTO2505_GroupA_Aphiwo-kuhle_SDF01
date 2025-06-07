@@ -1,6 +1,6 @@
 # Welcame To My Awesome Repo 🦋
 
-# [SDF01] Challenge: Aphiwo Repository  
+# [SDF01] : Aphiwo Repository  
 
 # 👋 Hi, I'm Aphiwokuhle Mavimbela 😎❤️
 
