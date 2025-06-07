@@ -46,7 +46,7 @@
 
 ## 📌 Projects
 
-Here are some of my milestone projects (to be updated as I progress!):
+The following are key milestone projects I have completed, with updates to be added as I continue to progress:
 
 ### **1️⃣ First GitHub Project**
 
